@@ -1,0 +1,23 @@
+body{
+    color:rgba(217, 255, 0, 0.596);
+    background: rgb(85, 185, 27);
+    margin: 0px;
+    font-family: "Bitcount Single Ink", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(138, 0, 0);
+}
+section{
+    background: rgb(201, 159, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
