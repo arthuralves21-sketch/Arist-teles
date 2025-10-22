@@ -1,6 +1,6 @@
 body{
     color:rgba(217, 255, 0, 0.596);
-    background: rgb(85, 185, 27);
+    background: rgb(67, 182, 0);
     margin: 0px;
     font-family: "Bitcount Single Ink", sans-serif;
 }
@@ -12,7 +12,7 @@ header{
     color: rgb(138, 0, 0);
 }
 section{
-    background: rgb(92, 9, 201);
+    background: rgb(71, 1, 163);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
